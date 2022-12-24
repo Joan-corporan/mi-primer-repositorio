@@ -3,3 +3,6 @@ var name = "joan" ;
 var soon = "Eiden" ;
 var wife = "Javiera" ;
 var A = 1 + 1 ;
+var B = 2 + 2 ;
+var C = 3 + 3 ;
+var D = 4 + 4 ;
