@@ -11,4 +11,5 @@ var F = 6 + 6 ;
  var G = 7 + 7 ;
  var H = 8 + 8 ;
  var I = 9 + 9 ;
- 
+var J = 0 ;
+
