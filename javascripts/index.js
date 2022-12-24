@@ -12,4 +12,5 @@ var F = 6 + 6 ;
  var H = 8 + 8 ;
  var I = 9 + 9 ;
 var J = 0 ;
+var v = variable ;
 
